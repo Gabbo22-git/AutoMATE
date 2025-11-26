@@ -55,7 +55,7 @@ A state-of-the-art **Retrieval-Augmented Generation (RAG)** system for processin
 
 ## Architecture
 
-[AutoMATE Architecture](mermaid-diagram-2025-11-25-012555.png)
+[![AutoMATE Architecture](mermaid-diagram-2025-11-25-012555.png)
 
 ### Pipeline Components
 
