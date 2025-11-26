@@ -202,13 +202,6 @@ confidence = ConfidenceCalculator.aggregate(
 )
 ```
 
-### Query Examples
-
-| Language | Query                                   | Expected Behavior                      |
-| -------- | --------------------------------------- | -------------------------------------- |
-| Italian  | "Come funziona il pulsante TRIP?"       | Direct retrieval, Italian response     |
-| English  | "How do I reset the service indicator?" | Translated retrieval, English response |
-| Mixed    | "What is the funzione Start&Stop?"      | Auto-detect, respond in query language |
 
 ---
 
