@@ -6,7 +6,7 @@
 
 A state-of-the-art **Retrieval-Augmented Generation (RAG)** system for processing and querying automotive technical manuals. AutoMATE combines advanced OCR, multimodal embeddings, and large language models to provide accurate, context-aware answers from vehicle documentation.
 
-![AutoMATE Architecture](mermaid-diagram-2025-11-25-012555.png)
+![AutoMATE Architecture]()
 
 ## Table of Contents
 
